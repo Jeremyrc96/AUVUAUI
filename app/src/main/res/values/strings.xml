@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AUVUA UI</string>
+    <string name="subtitle">3d video passthrough</string>
+  <string name="paragraph1">
+  </string>
+
+  <string name="paragraph2">
+  </string>
+
+    <string name="source"> &lt;a href="">&lt;/a></string>
+</resources>
